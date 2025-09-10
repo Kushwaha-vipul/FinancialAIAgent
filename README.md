@@ -1,7 +1,7 @@
 #  FinancialAIAgent – AI-Powered Financial Assistant
 
 FinAgentX is an AI-driven financial assistant that helps users with **financial queries, insights, and auto-generated reports (PDF & PPT)**.  
-It combines **Natural Language Processing, Knowledge Retrieval, and Report Generation** to deliver actionable results in seconds.  
+It combines **Natural Language Processing, Knowledge Retrieval, and Report Generation** to deliver  results. 
 
 ---
 
@@ -33,7 +33,7 @@ It combines **Natural Language Processing, Knowledge Retrieval, and Report Gener
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 FinancialAIAgent/
@@ -55,7 +55,7 @@ FinancialAIAgent/
 
 ### Clone the repository
 
-git clone https://github.com/your-username/FinancialAIAgent.git
+git clone https://github.com/Kushwaha-vipul/FinancialAIAgent.git
 cd FinancialAIAgent
 
 ## Setup Python backend
